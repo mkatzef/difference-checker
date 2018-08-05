@@ -2,6 +2,16 @@
 
 A tool for comparing two pieces of text. Written in Python, with a Tkinter GUI.
 
+## Screenshots
+<table>
+<td>
+<img src="images/text_entered.png" width="233" title="Difference checker - text entered">
+</td>
+<td>
+<img src="images/text_compared.png" width="233" title="Difference checker - text compared">
+</td>
+</table>
+
 ## Getting Started
 
 This project consists of a single module.
